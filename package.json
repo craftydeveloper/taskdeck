@@ -1,0 +1,11 @@
+{
+  "name": "taskdeck",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A task board for planning work by status, owner, and priority.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
